@@ -11256,23 +11256,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paiz2\\.nuget\\packages\\": {},
+    "C:\\Users\\calel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paiz2\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
+      "projectUniqueName": "C:\\Users\\calel\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
       "projectName": "ApiEmpresa",
-      "projectPath": "C:\\Users\\paiz2\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
-      "packagesPath": "C:\\Users\\paiz2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paiz2\\Desktop\\ApiEmpresa\\obj\\",
+      "projectPath": "C:\\Users\\calel\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
+      "packagesPath": "C:\\Users\\calel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\calel\\Desktop\\ApiEmpresa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paiz2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\calel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
